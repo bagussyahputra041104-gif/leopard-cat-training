@@ -1,0 +1,20 @@
+FINAL EVENT RESULTS
+======================================================================
+
+Total event leopard cat : 63
+Event classification    : 63
+Event candidate Re-ID   : 7
+Event unassigned        : 56
+
+MOVEMENT CANDIDATE
+----------------------------------------------------------------------
+Tidak yakin : 58
+Kanan       : 4
+Kiri        : 1
+Mendekat    : 0
+Menjauh     : 0
+
+CATATAN:
+Candidate Re-ID bukan identitas individu yang telah terverifikasi.
+UNASSIGNED bukan berarti individu berbeda.
+Movement merupakan hasil eksperimen dan bukan ground truth.

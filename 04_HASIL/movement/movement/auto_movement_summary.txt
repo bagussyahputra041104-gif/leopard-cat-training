@@ -1,0 +1,18 @@
+AUTO MOVEMENT ANALYSIS
+======================================================================
+
+Total event: 63
+Event dengan minimal 1 deteksi: 29
+Event dengan 3/3 foto terdeteksi: 8
+Event dengan deteksi tidak lengkap: 55
+
+DISTRIBUSI MOVEMENT CANDIDATE
+----------------------------------------------------------------------
+tidak_yakin    :  58 event ( 92.06%)
+kanan          :   4 event (  6.35%)
+kiri           :   1 event (  1.59%)
+
+CATATAN:
+Hasil movement merupakan candidate movement berbasis bounding box YOLO.
+Hasil belum dianggap sebagai ground truth.
+Validasi visual tetap diperlukan.

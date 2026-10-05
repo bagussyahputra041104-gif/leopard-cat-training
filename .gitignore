@@ -1,0 +1,71 @@
+# ==============================
+# DATASET ASLI — JANGAN UPLOAD
+# ==============================
+01_DATA_ASLI/
+
+# Foto dataset di dalam dataset preparation
+02_DATASET/dataset/train/
+02_DATASET/dataset/val/
+02_DATASET/dataset/test/
+02_DATASET/dataset/*.jpg
+02_DATASET/dataset/*.JPG
+02_DATASET/dataset/*.jpeg
+02_DATASET/dataset/*.JPEG
+02_DATASET/dataset/*.png
+02_DATASET/dataset/*.PNG
+
+# ==============================
+# FLUTTER DASHBOARD — REPOSITORY TERPISAH
+# ==============================
+leopard_cat_dashboard/
+
+# Folder yang bukan bagian repository training
+archive/
+lib/
+
+# ==============================
+# CACHE / PYTHON
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# ==============================
+# TEMPORARY FILES
+# ==============================
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# ==============================
+# JUPYTER
+# ==============================
+.ipynb_checkpoints/
+
+
+# Semua foto di dalam dataset
+02_DATASET/**/*.jpg
+02_DATASET/**/*.JPG
+02_DATASET/**/*.jpeg
+02_DATASET/**/*.JPEG
+02_DATASET/**/*.png
+02_DATASET/**/*.PNG
+
+# Re-ID experimental/archive visualizations
+05_REID/**/archive_reid_cross_time_old/
+05_REID/**/similar_pairs/
+05_REID/**/candidate_sheets/
+05_REID/**/cluster_audit_sheets/
+
+# Re-ID visual outputs / experimental images
+05_REID/**/*.jpg
+05_REID/**/*.JPG
+05_REID/**/*.jpeg
+05_REID/**/*.JPEG
+05_REID/**/*.png
+05_REID/**/*.PNG

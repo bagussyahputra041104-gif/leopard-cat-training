@@ -1,0 +1,213 @@
+RINGKASAN FINAL PROYEK COMPUTER VISION
+CAMERA TRAP - LEOPARD CAT
+============================================================
+
+1. DATASET DAN EVENT
+------------------------------------------------------------
+
+Total event              : 135
+Event leopard cat        : 63
+Event null               : 72
+
+Setiap event terdiri dari 3 foto yang berasal dari satu
+trigger kamera trap.
+
+Rentang waktu pengamatan:
+Mulai                     : 2017-10-19 04:00:20
+Selesai                   : 2018-01-26 20:45:54
+
+Timestamp valid            : 135/135
+
+
+2. KLASIFIKASI
+------------------------------------------------------------
+
+Model 1: ResNet18
+
+- Test foto             : 63
+- Prediksi benar        : 63
+- Akurasi test          : 100%
+- Test event            : 21
+- Event benar           : 21
+- Akurasi event         : 100%
+- Best validation       : 90%
+
+
+Model 2: MobileNetV3-Small
+
+- Test foto             : 63
+- Prediksi benar        : 63
+- Akurasi test          : 100%
+- Test event            : 21
+- Event benar           : 21
+- Akurasi event         : 100%
+- Best validation       : 90%
+
+
+Interpretasi:
+
+Kedua model memperoleh akurasi 100% pada test set yang
+digunakan dalam eksperimen.
+
+Hasil tersebut tidak diartikan sebagai jaminan bahwa model
+akan memperoleh akurasi 100% pada data baru.
+
+Terdapat indikasi overfitting karena akurasi training mencapai
+100%, sedangkan validation accuracy berada pada sekitar 90%.
+
+
+3. RE-IDENTIFICATION / INDIVIDUAL CANDIDATE
+------------------------------------------------------------
+
+Event leopard cat             : 63
+Event candidate individual    : 13
+Event belum ter-assignment    : 50
+
+Candidate group:
+
+- IND_CAND_01: 10 event
+- IND_CAND_02: 3 event
+
+Status candidate individual merupakan hasil pengelompokan
+berdasarkan kemiripan visual dan belum dianggap sebagai
+identitas individu yang tervalidasi.
+
+
+4. OCCURRENCE
+------------------------------------------------------------
+
+Jumlah event leopard cat yang dianalisis: 63
+
+Occurrence dianalisis berdasarkan:
+
+- Jam
+- Periode aktivitas
+- Tanggal
+- Source folder
+
+
+Occurrence berdasarkan periode:
+
+- 00:00-05:59: 36 event
+- 06:00-11:59: 6 event
+- 12:00-17:59: 1 event
+- 18:00-23:59: 20 event
+
+
+5. OUTPUT VISUALISASI
+------------------------------------------------------------
+
+Visualisasi occurrence tersedia pada:
+
+04_HASIL\occurrence\visualization\
+
+Output:
+
+- occurrence_hourly.png
+- occurrence_period.png
+- occurrence_daily.png
+- occurrence_source.png
+- occurrence_source.csv
+
+
+6. KETERBATASAN
+------------------------------------------------------------
+
+1. Dataset relatif terbatas.
+
+2. Kondisi foto bervariasi, termasuk foto siang/malam,
+   jarak berbeda, orientasi berbeda, dan kualitas gambar
+   yang tidak seragam.
+
+3. Kedua model menunjukkan indikasi overfitting.
+
+4. Pembagian data berbasis event masih memungkinkan adanya
+   kemiripan lingkungan atau karakteristik kamera antar
+   train, validation, dan test.
+
+5. Re-identification masih berupa candidate grouping dan
+   belum merupakan identifikasi individu yang tervalidasi.
+
+6. Hasil candidate individual belum dapat digunakan sebagai
+   jumlah populasi sebenarnya.
+
+7. YOLO pretrained digunakan sebagai bantuan eksplorasi
+   crop/deteksi dan belum dianggap sebagai ground truth
+   detector.
+
+
+7. ALUR SISTEM
+------------------------------------------------------------
+
+Camera Trap
+    |
+    v
+3 Foto / Event
+    |
+    v
+Event Dataset
+    |
+    v
+Classification
+    |
+    +---- Leopard Cat
+    |
+    +---- Null
+    |
+    v
+Re-Identification
+    |
+    v
+Candidate Individual
+    |
+    v
+Occurrence Analysis
+    |
+    v
+Visualization
+    |
+    v
+Flutter Dashboard
+
+
+8. STATUS PROYEK
+------------------------------------------------------------
+
+Dataset/event preparation       : SELESAI
+Classification                  : SELESAI
+Event-level evaluation          : SELESAI
+Re-identification baseline     : SELESAI
+Occurrence analysis             : SELESAI
+Occurrence visualization        : SELESAI
+Dashboard Flutter               : BELUM DIMULAI
+
+
+9. CATATAN PENGEMBANGAN
+------------------------------------------------------------
+
+Dashboard Flutter direncanakan sebagai tahap berikutnya.
+
+Dashboard dapat menampilkan:
+
+- total event
+- total leopard cat
+- total null
+- hasil klasifikasi
+- candidate individual
+- occurrence berdasarkan jam
+- occurrence berdasarkan periode
+- occurrence berdasarkan tanggal
+- source/camera
+- visualisasi hasil
+- detail event dan tiga foto
+
+
+============================================================
+KESIMPULAN STATUS
+============================================================
+
+Analisis inti proyek camera trap leopard cat telah selesai
+dan hasil utama telah tersedia untuk digunakan sebagai dasar
+laporan serta pengembangan dashboard.
+
+============================================================

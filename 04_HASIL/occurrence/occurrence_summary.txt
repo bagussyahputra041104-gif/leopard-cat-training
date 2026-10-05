@@ -1,0 +1,45 @@
+OCCURRENCE ANALYSIS - LEOPARD CAT
+============================================================
+
+1. DATASET
+------------------------------------------------------------
+Total event dataset : 135
+Leopard cat event   : 63
+Null event          : 72
+Timestamp invalid   : 0
+
+2. RENTANG WAKTU
+------------------------------------------------------------
+Deteksi pertama : 2017-10-19 04:00:20
+Deteksi terakhir: 2018-01-26 20:45:54
+
+3. OCCURRENCE BERDASARKAN PERIODE WAKTU
+------------------------------------------------------------
+00:00-05:59 : 36 event
+06:00-11:59 : 6 event
+12:00-17:59 : 1 event
+18:00-23:59 : 20 event
+
+4. OCCURRENCE BERDASARKAN JAM
+------------------------------------------------------------
+00:00 : 15 event
+03:00 : 13 event
+04:00 : 8 event
+06:00 : 3 event
+07:00 : 3 event
+16:00 : 1 event
+18:00 : 12 event
+19:00 : 3 event
+20:00 : 1 event
+21:00 : 3 event
+22:00 : 1 event
+
+5. OCCURRENCE BERDASARKAN SOURCE FOLDER
+------------------------------------------------------------
+
+6. CATATAN
+------------------------------------------------------------
+Satu event merepresentasikan satu trigger kamera yang terdiri dari tiga foto.
+Occurrence dihitung berdasarkan event dengan label leopard_cat.
+Analisis menggunakan timestamp event pada event_dataset.csv.
+Jumlah null merupakan total event dikurangi jumlah event leopard_cat.

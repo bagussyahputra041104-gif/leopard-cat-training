@@ -1,0 +1,31 @@
+ANALISIS KONDISI FOTO TEST - RESNET18
+============================================================
+Total foto dianalisis : 63
+Prediksi benar        : 63
+Prediksi salah        : 0
+Akurasi               : 100.00%
+
+BRIGHTNESS
+Minimum : 43.49
+Median  : 91.44
+Maximum : 108.03
+
+SHARPNESS
+Minimum : 470.99
+Median  : 783.74
+Maximum : 1630.74
+
+KATEGORI BRIGHTNESS
+RELATIF_GELAP: 21 foto | benar 21 | akurasi 100.00%
+RELATIF_TERANG: 22 foto | benar 22 | akurasi 100.00%
+SEDANG: 20 foto | benar 20 | akurasi 100.00%
+
+KATEGORI SHARPNESS
+INDIKASI_BLUR_TINGGI: 21 foto | benar 21 | akurasi 100.00%
+SEDANG: 20 foto | benar 20 | akurasi 100.00%
+TAJAM: 22 foto | benar 22 | akurasi 100.00%
+
+CATATAN
+Brightness dan sharpness merupakan indikator otomatis, bukan ground truth manual kondisi foto.
+Kategori relatif ditentukan berdasarkan distribusi nilai pada data test.
+Analisis ini digunakan sebagai analisis pendukung terhadap performa klasifikasi.

@@ -1,0 +1,64 @@
+event_id,timestamp,orientasi_foto_1,orientasi_foto_2,orientasi_foto_3,perubahan_gambar_12,perubahan_gambar_23,movement_candidate,alasan
+EVT_0001,2017-10-19 04:00:20,kanan,kanan,kanan,2.950439453125,2.4277852376302085,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0002,2017-10-27 19:40:20,kiri,kiri,kiri,7.0343373616536455,6.6380869547526045,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0003,2017-10-27 19:40:22,kiri,kiri,kiri,1.6697896321614583,1.4720865885416667,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0004,2017-10-27 19:40:34,kiri,kiri,kiri,2.0748697916666665,2.167627970377604,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0005,2017-11-06 16:42:29,belakang,belakang,belakang,8.912663777669271,7.179107666015625,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0006,2017-11-07 03:12:42,kanan,kiri,kiri,1.9182332356770833,1.63519287109375,kiri,Orientasi berubah dari kanan ke kiri.
+EVT_0007,2017-11-07 03:12:59,kiri,kiri,kiri,5.489725748697917,3.159968058268229,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0008,2017-11-07 03:13:09,kiri,kiri,kiri,2.6509501139322915,1.5664316813151042,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0009,2017-11-07 03:13:19,kiri,kiri,kiri,1.46575927734375,0.8889719645182291,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0010,2017-11-20 18:55:39,kiri,kiri,kiri,17.069254557291668,18.76897684733073,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0011,2017-11-20 18:55:43,kiri,kiri,kiri,0.8478800455729166,0.7458394368489584,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0012,2017-12-08 00:33:15,kanan,depan,depan,2.215789794921875,1.4743804931640625,tidak_yakin,Perubahan orientasi belum cukup untuk menentukan arah gerak.
+EVT_0013,2017-12-08 00:33:18,kanan,kanan,depan,31.74481709798177,11.965092976888021,tidak_yakin,Perubahan orientasi belum cukup untuk menentukan arah gerak.
+EVT_0014,2017-12-08 00:33:21,depan,depan,depan,4.6439565022786455,6.3399098714192705,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0015,2017-12-08 00:33:25,depan,depan,kanan,2.358245849609375,8.531422932942709,tidak_yakin,Perubahan orientasi belum cukup untuk menentukan arah gerak.
+EVT_0016,2017-12-08 00:33:29,belakang,belakang,kanan,2.8081207275390625,1.9446868896484375,tidak_yakin,Perubahan orientasi belum cukup untuk menentukan arah gerak.
+EVT_0017,2017-12-08 04:01:15,kiri,kiri,kiri,4.103912353515625,4.7092437744140625,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0018,2017-12-08 04:01:19,kiri,kiri,kiri,3.431645711263021,1.6343994140625,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0019,2017-12-08 04:01:36,kiri,kiri,kiri,1.1555735270182292,1.2111002604166667,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0020,2017-12-08 04:24:20,kanan,kanan,kanan,1.6327412923177083,1.1767628987630208,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0021,2017-12-08 04:24:26,kanan,kanan,kanan,3.658696492513021,10.5771484375,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0022,2017-12-09 07:18:52,kanan,kanan,kanan,6.8681081136067705,3.13446044921875,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0023,2017-12-09 07:18:56,belakang,belakang,belakang,4.020111083984375,4.480438232421875,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0024,2017-12-17 18:41:50,kiri,kiri,kiri,8.366327921549479,22.816752115885418,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0025,2017-12-17 18:42:29,kanan,kanan,kanan,2.271204630533854,2.2444559733072915,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0026,2017-12-17 18:42:37,kanan,kanan,kanan,3.298467000325521,8.986043294270834,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0027,2017-12-18 06:32:24,kanan,kanan,kanan,4.179585774739583,2.011021931966146,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0028,2017-12-19 07:35:16,kiri,kanan,tidak_yakin,3.809666951497396,2.7946980794270835,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0029,2017-12-23 06:01:41,kiri,kiri,kiri,4.2306976318359375,2.734161376953125,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0030,2017-12-24 03:46:53,kanan,kanan,kanan,1.684051513671875,1.4013010660807292,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0031,2017-12-24 03:47:02,kanan,kanan,kanan,2.4939422607421875,6.9919891357421875,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0032,2017-12-24 03:47:06,kanan,kanan,kanan,1.7045389811197917,1.6623077392578125,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0033,2017-12-24 03:47:11,kanan,kanan,kanan,1.0912933349609375,1.0223592122395833,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0034,2017-12-27 06:40:55,kanan,kanan,kanan,5.138895670572917,5.078948974609375,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0035,2017-12-30 22:28:41,kanan,depan,depan,2.5311177571614585,6.464385986328125,tidak_yakin,Perubahan orientasi belum cukup untuk menentukan arah gerak.
+EVT_0036,2018-01-02 00:18:50,tidak_yakin,belakang,belakang,28.844223022460938,9.508417765299479,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0037,2018-01-02 00:18:56,belakang,belakang,belakang,14.072825113932291,2.474090576171875,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0038,2018-01-02 03:14:14,kiri,kiri,kiri,22.16058349609375,8.325215657552084,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0039,2018-01-02 03:14:47,kiri,depan,depan,13.757568359375,1.9087473551432292,tidak_yakin,Perubahan orientasi belum cukup untuk menentukan arah gerak.
+EVT_0040,2018-01-02 03:14:54,depan,depan,depan,1.6803131103515625,1.8347676595052083,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0041,2018-01-02 03:14:59,depan,depan,depan,1.3463083902994792,0.9092203776041666,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0042,2018-01-03 03:45:28,kanan,kanan,kanan,15.769638061523438,17.234161376953125,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0043,2018-01-05 18:22:13,depan,belakang,belakang,33.2156982421875,2.7080586751302085,menjauh,Orientasi berubah dari depan ke belakang.
+EVT_0044,2018-01-09 21:34:19,kiri,kiri,kiri,3.049468994140625,15.819976806640625,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0045,2018-01-09 21:34:25,kiri,kiri,kiri,4.0090179443359375,8.525034586588541,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0046,2018-01-09 21:34:28,kiri,kiri,kiri,2.4668121337890625,1.8372853597005208,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0047,2018-01-11 00:15:50,kiri,kiri,kiri,4.2456614176432295,2.346613566080729,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0048,2018-01-18 04:29:37,kanan,kanan,kanan,3.296361287434896,2.9625956217447915,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0049,2018-01-18 04:29:43,kanan,kanan,kanan,1.368011474609375,1.1202646891276042,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0050,2018-01-18 18:58:16,tidak_yakin,tidak_yakin,tidak_yakin,2.759007771809896,1.5155792236328125,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0051,2018-01-18 18:59:07,belakang,depan,depan,1.2432861328125,1.3214670817057292,mendekat,Orientasi berubah dari belakang ke depan.
+EVT_0052,2018-01-18 18:59:12,depan,depan,depan,2.6234588623046875,1.2611592610677083,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0053,2018-01-18 18:59:22,tidak_yakin,tidak_yakin,tidak_yakin,2.2941792805989585,0.8104400634765625,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0054,2018-01-18 18:59:26,tidak_yakin,tidak_yakin,tidak_yakin,0.8703460693359375,1.4927927652994792,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0055,2018-01-19 00:31:04,kiri,kiri,kiri,6.1109873453776045,32.425811767578125,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0056,2018-01-19 00:31:07,kiri,tidak_yakin,tidak_yakin,5.174306233723958,1.1157684326171875,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0057,2018-01-19 00:32:18,kanan,kanan,kanan,4.540690104166667,16.786448160807293,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0058,2018-01-19 00:32:23,kanan,kanan,kanan,24.644297281901043,31.247283935546875,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0059,2018-01-19 00:32:27,kanan,tidak_yakin,tidak_yakin,1.432403564453125,0.7955830891927084,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0060,2018-01-19 00:35:21,kiri,kiri,kiri,37.37903340657552,6.554463704427083,tidak_yakin,Orientasi tetap; belum cukup bukti untuk menentukan arah gerak.
+EVT_0061,2018-01-19 00:35:28,depan,depan,tidak_yakin,11.285222371419271,9.227294921875,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0062,2018-01-19 18:52:50,kiri,kiri,tidak_yakin,3.129603068033854,1.6344146728515625,tidak_yakin,Terdapat foto dengan orientasi tidak yakin.
+EVT_0063,2018-01-26 20:45:54,belakang,belakang,depan,1.227569580078125,1.1117451985677083,mendekat,Orientasi berubah dari belakang ke depan.

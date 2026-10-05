@@ -1,0 +1,64 @@
+event_id,timestamp,jumlah_foto_terdeteksi,x_center_foto_1_norm,x_center_foto_2_norm,x_center_foto_3_norm,y_center_foto_1_norm,y_center_foto_2_norm,y_center_foto_3_norm,perubahan_x_foto_1_ke_3,perubahan_y_foto_1_ke_3,ukuran_foto_1_norm,ukuran_foto_2_norm,ukuran_foto_3_norm,perubahan_ukuran,movement_candidate,alasan
+EVT_0001,2017-10-19 04:00:20,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0002,2017-10-27 19:40:20,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0003,2017-10-27 19:40:22,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0004,2017-10-27 19:40:34,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0005,2017-11-06 16:42:29,3,0.46134370634445965,0.6468229328928402,0.7172496620970139,0.740248577608244,0.6626654375431373,0.552764344846316,0.25590595575255426,-0.18748423276192805,1.0,0.810820497160205,0.6351770783820929,-0.3648229216179071,kanan,Titik tengah bounding box bergeser ke kanan.
+EVT_0006,2017-11-07 03:12:42,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0007,2017-11-07 03:12:59,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0008,2017-11-07 03:13:09,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0009,2017-11-07 03:13:19,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0010,2017-11-20 18:55:39,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0011,2017-11-20 18:55:43,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0012,2017-12-08 00:33:15,2,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0013,2017-12-08 00:33:18,3,0.26499090622108246,0.47206601354286937,0.6931278615243878,0.7884987976519471,0.7543628141687674,0.7338009326773045,0.4281369553033053,-0.054697864974642574,0.5336951884321709,1.0,0.8087894695394728,0.27509428110730194,kanan,Titik tengah bounding box bergeser ke kanan.
+EVT_0014,2017-12-08 00:33:21,3,0.7143551015585531,0.7205260332881019,0.734639052977797,0.7545894284997277,0.756161394994861,0.7648663075327453,0.020283951419243884,0.01027687903301766,0.9398917537582328,0.9099826100670709,1.0,0.06010824624176725,tidak_yakin,Perubahan posisi dan ukuran belum cukup besar.
+EVT_0015,2017-12-08 00:33:25,3,0.7058540050472596,0.7117735820907515,0.751975883652459,0.7550806672518934,0.7550923192207256,0.7365917523918659,0.04612187860519945,-0.01848891486002746,0.8953063855371686,0.9221167755728098,1.0,0.10469361446283143,tidak_yakin,Perubahan posisi dan ukuran belum cukup besar.
+EVT_0016,2017-12-08 00:33:29,3,0.7513236736790055,0.8261368113600843,0.8692062982260602,0.6131304681687428,0.7362317528775647,0.6747090605989472,0.11788262454705467,0.06157859243020436,1.0,0.6263774400209629,0.5592107039384993,-0.44078929606150075,kanan,Titik tengah bounding box bergeser ke kanan.
+EVT_0017,2017-12-08 04:01:15,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0018,2017-12-08 04:01:19,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0019,2017-12-08 04:01:36,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0020,2017-12-08 04:24:20,2,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0021,2017-12-08 04:24:26,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0022,2017-12-09 07:18:52,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0023,2017-12-09 07:18:56,2,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0024,2017-12-17 18:41:50,2,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0025,2017-12-17 18:42:29,3,0.6227375095207106,0.6449324940298969,0.6160365671110435,0.7360987859457587,0.728700396116078,0.7283955442035425,-0.006700942409667121,-0.00770324174221626,1.0,0.9186497796887633,0.9976229566214075,-0.0023770433785924583,tidak_yakin,Perubahan posisi dan ukuran belum cukup besar.
+EVT_0026,2017-12-17 18:42:37,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0027,2017-12-18 06:32:24,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0028,2017-12-19 07:35:16,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0029,2017-12-23 06:01:41,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0030,2017-12-24 03:46:53,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0031,2017-12-24 03:47:02,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0032,2017-12-24 03:47:06,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0033,2017-12-24 03:47:11,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0034,2017-12-27 06:40:55,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0035,2017-12-30 22:28:41,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0036,2018-01-02 00:18:50,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0037,2018-01-02 00:18:56,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0038,2018-01-02 03:14:14,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0039,2018-01-02 03:14:47,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0040,2018-01-02 03:14:54,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0041,2018-01-02 03:14:59,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0042,2018-01-03 03:45:28,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0043,2018-01-05 18:22:13,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0044,2018-01-09 21:34:19,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0045,2018-01-09 21:34:25,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0046,2018-01-09 21:34:28,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0047,2018-01-11 00:15:50,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0048,2018-01-18 04:29:37,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0049,2018-01-18 04:29:43,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0050,2018-01-18 18:58:16,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0051,2018-01-18 18:59:07,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0052,2018-01-18 18:59:12,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0053,2018-01-18 18:59:22,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0054,2018-01-18 18:59:26,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0055,2018-01-19 00:31:04,2,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0056,2018-01-19 00:31:07,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0057,2018-01-19 00:32:18,3,0.49482914035844994,0.5000368788964888,0.41240251964244357,0.7420636242787332,0.750255176807044,0.7523996732240472,-0.08242662071600637,0.010336048945314036,1.0,0.983490835752167,0.7990175658916496,-0.20098243410835037,kiri,Titik tengah bounding box bergeser ke kiri.
+EVT_0058,2018-01-19 00:32:23,3,0.2651755621601841,0.5728177463525773,0.8242149389126925,0.7981398031480661,0.7190142236629976,0.5533067963505525,0.5590393767525084,-0.24483300679751363,0.8299371947589901,1.0,0.9117215723023342,0.08178437754334411,kanan,Titik tengah bounding box bergeser ke kanan.
+EVT_0059,2018-01-19 00:32:27,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0060,2018-01-19 00:35:21,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0061,2018-01-19 00:35:28,1,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0062,2018-01-19 18:52:50,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.
+EVT_0063,2018-01-26 20:45:54,0,,,,,,,,,,,,,tidak_yakin,Tidak semua foto memiliki deteksi.

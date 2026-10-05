@@ -1,0 +1,8 @@
+﻿metric,value,unit
+Total leopard-cat events,63,event
+Candidate individual groups,1,candidate group
+Events in candidate groups,7,event
+Unassigned events,56,event
+Re-ID candidate coverage,11.11,%
+Conservative candidate-group count,1,candidate group
+Unassigned events are separate individuals?,NO,not determined

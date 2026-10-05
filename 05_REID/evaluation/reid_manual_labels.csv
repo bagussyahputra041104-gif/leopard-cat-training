@@ -1,0 +1,22 @@
+rank,event_1,event_2,similarity,time_gap_hours,time_gap_days,manual_label,notes
+1,EVT_0013,EVT_0058,0.9169764590957306,1007.9847222222222,41.99936342592593,SAME_CANDIDATE,"Pola spot, bentuk tubuh, kepala, dan ekor terlihat konsisten pada beberapa pose."
+2,EVT_0024,EVT_0058,0.9168859413167464,773.8425,32.2434375,SAME_CANDIDATE,"Pola tubuh terlihat cukup konsisten, tetapi EVT_0024 lebih samping dan sebagian detail kurang jelas."
+3,EVT_0013,EVT_0057,0.9162195633317116,1007.9833333333332,41.99930555555556,SAME_CANDIDATE,Beberapa ciri visual tampak sangat konsisten dan kedua event memberikan tampilan tubuh yang cukup lengkap.
+4,EVT_0013,EVT_0060,0.910463798714267,1008.0341666666668,42.00142361111112,UNCERTAIN,"Similarity tinggi, tetapi EVT_0060 memiliki bagian tubuh yang kurang terlihat jelas."
+5,EVT_0015,EVT_0035,0.9094368660596518,549.9211111111111,22.91337962962963,UNCERTAIN,"Pola tubuh tampak mirip, tetapi pose dan kondisi gambar berbeda cukup besar."
+6,EVT_0015,EVT_0057,0.907636792926788,1007.9813888888888,41.99922453703704,SAME_CANDIDATE,Pola spot dan proporsi tubuh terlihat cukup konsisten.
+7,EVT_0014,EVT_0057,0.9007505576467492,1007.9825,41.99927083333333,SAME_CANDIDATE,Pola badan dan karakteristik kepala/tubuh tampak konsisten pada beberapa foto.
+8,EVT_0025,EVT_0058,0.8987938646976685,773.8316666666667,32.24298611111111,SAME_CANDIDATE,Pola tubuh terlihat konsisten meskipun sudut pengambilan berbeda.
+9,EVT_0014,EVT_0035,0.8968658262863819,549.9222222222222,22.913425925925925,UNCERTAIN,"Ada kemiripan pola, tetapi bukti visual individu belum cukup kuat."
+10,EVT_0015,EVT_0058,0.8954040279190959,1007.9827777777778,41.99928240740741,SAME_CANDIDATE,Pola tubuh dan bentuk umum terlihat cukup konsisten pada beberapa foto.
+,EVT_0013,EVT_0035,,,,SAME_CANDIDATE,
+11,EVT_0002,EVT_0058,0.8721121980914086,1996.8675,83.2028125,SAME_CANDIDATE,Manual review group validation 8 events
+12,EVT_0002,EVT_0060,0.8648122553984883,1996.9169444444444,83.20487268518518,SAME_CANDIDATE,Manual review group validation 8 events
+13,EVT_0002,EVT_0025,0.8554125146563029,1223.0358333333334,50.95982638888889,SAME_CANDIDATE,Manual review group validation 8 events
+14,EVT_0060,EVT_0025,0.8754468172865816,773.8811111111111,32.245046296296294,SAME_CANDIDATE,Manual review group validation 8 events
+15,EVT_0002,EVT_0013,0.8614714774086623,988.8827777777777,41.20344907407407,UNCERTAIN,Manual review group validation 8 events
+16,EVT_0002,EVT_0015,0.8493262815566416,988.8847222222222,41.203530092592594,UNCERTAIN,Manual review group validation 8 events
+17,EVT_0060,EVT_0015,0.8847327161916925,1008.0322222222222,42.00134259259259,UNCERTAIN,Manual review group validation 8 events
+18,EVT_0060,EVT_0024,0.8839775266158124,773.8919444444444,32.245497685185185,UNCERTAIN,Manual review group validation 8 events
+,EVT_0026,EVT_0037,,,,SAME_CANDIDATE,Phase 3 group validation: pola tubuh terlihat konsisten antara EVT_0026 dan EVT_0037.
+,EVT_0037,EVT_0055,,,,SAME_CANDIDATE,Phase 3 group validation: pola tubuh dan karakteristik visual terlihat konsisten antara EVT_0037 dan EVT_0055.

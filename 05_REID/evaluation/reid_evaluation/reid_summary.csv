@@ -1,0 +1,9 @@
+metric,value
+Total leopard-cat events,63
+Events in candidate groups,7
+Events without candidate group,56
+Candidate individual groups,1
+Manual SAME_CANDIDATE pairs,13
+Manual UNCERTAIN pairs,6
+Manual DIFFERENT_CANDIDATE pairs,0
+SAME_CANDIDATE pairs >1 day,13

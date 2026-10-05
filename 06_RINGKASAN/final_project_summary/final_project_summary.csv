@@ -1,0 +1,10 @@
+metric,value
+total_event,135
+leopard_cat_event,63
+null_event,72
+valid_timestamp,135
+test_event,21
+reid_candidate_event,13
+reid_unassigned_event,50
+first_detection,2017-10-19 04:00:20
+last_detection,2018-01-26 20:45:54

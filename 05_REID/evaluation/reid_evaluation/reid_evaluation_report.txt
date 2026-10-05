@@ -1,0 +1,25 @@
+RE-ID EVALUATION REPORT
+============================================================
+
+Total leopard-cat events : 63
+Candidate individual groups : 1
+Events in candidate groups : 7
+Events without candidate group : 56
+
+PAIR REVIEW
+------------------------------------------------------------
+SAME_CANDIDATE : 13
+UNCERTAIN : 6
+DIFFERENT_CANDIDATE : 0
+
+SAME_CANDIDATE pairs > 1 day : 13
+
+CANDIDATE GROUPS
+------------------------------------------------------------
+IND_CAND_01 (7 event): EVT_0013, EVT_0014, EVT_0015, EVT_0024, EVT_0025, EVT_0057, EVT_0058
+
+INTERPRETATION
+------------------------------------------------------------
+Candidate individual merupakan hasil pengelompokan berbasis similarity dan review visual.
+Hasil tersebut bukan ground-truth identitas individu.
+Event yang belum memiliki hubungan cukup kuat tetap dipertahankan sebagai event terpisah.

@@ -1,0 +1,94 @@
+======================================================================
+PROJECT STATUS SUMMARY
+======================================================================
+
+Project: Camera Trap Leopard Cat Computer Vision
+Status: Checkpoint setelah Re-ID Group 01
+
+
+----------------------------------------------------------------------
+DATASET
+----------------------------------------------------------------------
+Total event: 135 (event_dataset.csv)
+Leopard cat event: 63
+Null event: 72
+
+----------------------------------------------------------------------
+LEOPARD CAT
+----------------------------------------------------------------------
+Total leopard-cat event: 63 (leopard_cat_master.csv)
+Jumlah source folder: 12
+Timestamp awal: 2017-10-19 04:00:20
+Timestamp akhir: 2018-01-26 20:45:54
+
+----------------------------------------------------------------------
+FINAL RESULTS
+----------------------------------------------------------------------
+Total event: 63
+
+----------------------------------------------------------------------
+CLASSIFICATION
+----------------------------------------------------------------------
+Leopard cat: 63
+Null: 0
+
+----------------------------------------------------------------------
+ORIENTATION
+----------------------------------------------------------------------
+Kolom tersedia: 3 (orientation_foto_1, orientation_foto_2, orientation_foto_3)
+kiri: 67
+kanan: 60
+depan: 27
+belakang: 18
+tidak_yakin: 17
+
+----------------------------------------------------------------------
+MOVEMENT
+----------------------------------------------------------------------
+Kolom movement tersedia: YES
+tidak_yakin: 58
+kanan: 4
+kiri: 1
+
+----------------------------------------------------------------------
+RE-ID
+----------------------------------------------------------------------
+Status: UNASSIGNED: 53
+Status: CANDIDATE: 10
+Candidate: UNASSIGNED: 53
+Candidate: IND_CAND_01: 10
+Total candidate group: 1
+IND_CAND_01 event: 10
+
+======================================================================
+CATATAN METODOLOGI
+======================================================================
+
+1. Unit analisis utama adalah event camera trap,
+   bukan foto individual.
+
+2. Setiap event terdiri dari 3 foto.
+
+3. Classification membedakan leopard_cat dan null.
+
+4. Re-ID menggunakan candidate individual group,
+   bukan ground-truth identitas individu.
+
+5. IND_CAND_01 merupakan kelompok kandidat individu
+   berdasarkan similarity dan review visual manual.
+
+6. UNASSIGNED tidak berarti individu berbeda.
+   Artinya belum ada bukti yang cukup untuk menghubungkan
+   event tersebut dengan candidate group.
+
+7. Jumlah candidate group bukan estimasi populasi final.
+
+8. Hasil classification yang tinggi pada test set
+   tidak otomatis berarti generalisasi sempurna.
+
+9. Movement merupakan movement candidate/eksperimental
+   dan perlu interpretasi hati-hati.
+
+======================================================================
+SELESAI
+======================================================================

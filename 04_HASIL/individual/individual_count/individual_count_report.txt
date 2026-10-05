@@ -1,0 +1,24 @@
+INDIVIDUAL COUNT ANALYSIS
+======================================================================
+
+Total leopard-cat events: 63
+Candidate individual groups: 1
+Events in candidate groups: 7
+Unassigned events: 56
+Re-ID candidate coverage: 11.11%
+
+CANDIDATE GROUPS
+----------------------------------------------------------------------
+IND_CAND_01: 7 event
+  Events: EVT_0013, EVT_0014, EVT_0015, EVT_0024, EVT_0025, EVT_0057, EVT_0058
+  First seen: 2017-12-08 00:33:18
+  Last seen: 2018-01-19 00:32:23
+  Span: 41.999 hari
+  Source count: 3
+
+INTERPRETATION
+----------------------------------------------------------------------
+Jumlah candidate individual tidak diperlakukan sebagai estimasi populasi sebenarnya.
+Event yang belum memiliki hubungan Re-ID yang cukup kuat tetap diberi status UNASSIGNED.
+UNASSIGNED tidak otomatis berarti individu yang berbeda.
+Candidate group merupakan hasil similarity embedding dan review visual manual, bukan ground-truth identitas.

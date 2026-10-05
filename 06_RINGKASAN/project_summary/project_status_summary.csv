@@ -1,0 +1,27 @@
+category,item,value,note
+Dataset,Total event,135,event_dataset.csv
+Dataset,Leopard cat event,63,
+Dataset,Null event,72,
+Leopard Cat,Total leopard-cat event,63,leopard_cat_master.csv
+Leopard Cat,Jumlah source folder,12,
+Leopard Cat,Timestamp awal,2017-10-19 04:00:20,
+Leopard Cat,Timestamp akhir,2018-01-26 20:45:54,
+Final Results,Total event,63,
+Classification,Leopard cat,63,
+Classification,Null,0,
+Orientation,Kolom tersedia,3,"orientation_foto_1, orientation_foto_2, orientation_foto_3"
+Orientation,kiri,67,
+Orientation,kanan,60,
+Orientation,depan,27,
+Orientation,belakang,18,
+Orientation,tidak_yakin,17,
+Movement,Kolom movement tersedia,YES,
+Movement,tidak_yakin,58,
+Movement,kanan,4,
+Movement,kiri,1,
+Re-ID,Status: UNASSIGNED,53,
+Re-ID,Status: CANDIDATE,10,
+Re-ID,Candidate: UNASSIGNED,53,
+Re-ID,Candidate: IND_CAND_01,10,
+Re-ID,Total candidate group,1,
+Re-ID,IND_CAND_01 event,10,
