@@ -1,0 +1,33 @@
+EVALUASI RESNET18 - ORIENTATION
+======================================================================
+
+Total test foto : 30
+Accuracy        : 0.6000
+Correct         : 18
+Wrong           : 12
+
+CLASSIFICATION REPORT
+----------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+       depan       1.00      1.00      1.00         3
+    belakang       1.00      0.67      0.80         3
+        kiri       0.82      0.64      0.72        14
+       kanan       0.40      0.67      0.50         6
+ tidak_yakin       0.00      0.00      0.00         3
+        null       0.00      0.00      0.00         1
+
+    accuracy                           0.60        30
+   macro avg       0.54      0.50      0.50        30
+weighted avg       0.66      0.60      0.62        30
+
+
+CONFUSION MATRIX
+----------------------------------------------------------------------
+             depan  belakang  kiri  kanan  tidak_yakin  null
+depan            3         0     0      0            0     0
+belakang         0         2     0      0            1     0
+kiri             0         0     9      5            0     0
+kanan            0         0     2      4            0     0
+tidak_yakin      0         0     0      0            0     3
+null             0         0     0      1            0     0

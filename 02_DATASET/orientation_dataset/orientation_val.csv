@@ -1,0 +1,28 @@
+event_id,foto,path_foto,label_lama,ground_truth,status_review,split
+EVT_0001,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-East-150m-BC-Round 1\IMG_0034.JPG,kanan,kanan,CONFIRMED,val
+EVT_0001,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-East-150m-BC-Round 1\IMG_0035.JPG,kanan,kanan,CONFIRMED,val
+EVT_0001,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-East-150m-BC-Round 1\IMG_0036.JPG,kanan,kanan,CONFIRMED,val
+EVT_0006,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-50m-BC-Round 2\IMG_0265.JPG,kanan,kiri,CONFIRMED,val
+EVT_0006,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-50m-BC-Round 2\IMG_0266.JPG,kiri,kiri,CONFIRMED,val
+EVT_0006,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-50m-BC-Round 2\IMG_0267.JPG,kiri,kiri,CONFIRMED,val
+EVT_0013,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 4\IMG_0043.JPG,kanan,kanan,CONFIRMED,val
+EVT_0013,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 4\IMG_0044.JPG,kanan,kanan,CONFIRMED,val
+EVT_0013,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 4\IMG_0045.JPG,depan,depan,CONFIRMED,val
+EVT_0017,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 4\IMG_0055.JPG,kiri,kiri,CONFIRMED,val
+EVT_0017,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 4\IMG_0056.JPG,kiri,kiri,CONFIRMED,val
+EVT_0017,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 4\IMG_0057.JPG,kiri,kiri,CONFIRMED,val
+EVT_0035,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-East-350m-BC-Round 7\IMG 1 (3).JPG,kanan,kanan,CONFIRMED,val
+EVT_0035,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-East-350m-BC-Round 7\IMG 1 (4).JPG,depan,depan,CONFIRMED,val
+EVT_0035,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-East-350m-BC-Round 7\IMG 1 (5).JPG,depan,depan,CONFIRMED,val
+EVT_0041,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 7\IMG_0037.JPG,depan,depan,CONFIRMED,val
+EVT_0041,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 7\IMG_0038.JPG,depan,depan,CONFIRMED,val
+EVT_0041,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 7\IMG_0039.JPG,depan,depan,CONFIRMED,val
+EVT_0049,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0211.JPG,kanan,kanan,CONFIRMED,val
+EVT_0049,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0212.JPG,kanan,kanan,CONFIRMED,val
+EVT_0049,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0213.JPG,kanan,kanan,CONFIRMED,val
+EVT_0056,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0235.JPG,kiri,kiri,CONFIRMED,val
+EVT_0056,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0236.JPG,tidak_yakin,tidak_yakin,CONFIRMED,val
+EVT_0056,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0237.JPG,tidak_yakin,null,CONFIRMED,val
+EVT_0061,foto_1,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0250.JPG,depan,depan,CONFIRMED,val
+EVT_0061,foto_2,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0251.JPG,depan,depan,CONFIRMED,val
+EVT_0061,foto_3,C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\01_DATA_ASLI\leopard_cat\Rerta 1-leopard cat_baseline_BC\A-West-250m-BC-Round 8\IMG_0252.JPG,tidak_yakin,null,CONFIRMED,val

@@ -1,0 +1,40 @@
+EVALUASI RESNET18 V2 - ORIENTATION
+======================================================================
+
+MODEL
+C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\03_MODEL\models\resnet18_orientation_v2_best.pth
+
+AUGMENTATION
+no_horizontal_flip
+
+Total test foto : 30
+Total test event: 10
+Accuracy        : 0.5333
+Correct         : 16
+Wrong           : 14
+
+CLASSIFICATION REPORT
+----------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+       depan       1.00      1.00      1.00         3
+    belakang       0.33      0.33      0.33         3
+        kiri       0.82      0.64      0.72        14
+       kanan       0.43      0.50      0.46         6
+ tidak_yakin       0.00      0.00      0.00         3
+        null       0.00      0.00      0.00         1
+
+    accuracy                           0.53        30
+   macro avg       0.43      0.41      0.42        30
+weighted avg       0.60      0.53      0.56        30
+
+
+CONFUSION MATRIX
+----------------------------------------------------------------------
+             depan  belakang  kiri  kanan  tidak_yakin  null
+depan            3         0     0      0            0     0
+belakang         0         1     0      0            2     0
+kiri             0         1     9      4            0     0
+kanan            0         0     2      3            0     1
+tidak_yakin      0         0     0      0            0     3
+null             0         1     0      0            0     0
