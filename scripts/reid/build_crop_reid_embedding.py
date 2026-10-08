@@ -16,13 +16,12 @@ BASE_DIR = r"C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang"
 
 DETECTION_CSV = os.path.join(
     BASE_DIR,
-    "reid_crops",
-    "detection_results.csv"
+    "archive", "detection", "reid_crops", "detection_results.csv"
 )
 
 OUTPUT_DIR = os.path.join(
     BASE_DIR,
-    "05_REID" / "crop"
+    os.path.join("05_REID", "crop")
 )
 
 EMBEDDING_CSV = os.path.join(
@@ -558,3 +557,6 @@ print(
 print(
     PAIRS_CSV
 )
+
+
+

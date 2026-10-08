@@ -24,7 +24,7 @@ TEST_CSV = os.path.join(
     BASE_DIR,
     "02_DATASET",
     "orientation_dataset",
-    "orientation_test.csv",
+    "orientation_test_v2.csv",
 )
 
 MODEL_PATH = os.path.join(

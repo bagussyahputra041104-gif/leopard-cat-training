@@ -1,7 +1,7 @@
 ,depan,belakang,kiri,kanan,tidak_yakin,null
 depan,3,0,0,0,0,0
-belakang,0,1,0,0,2,0
+belakang,0,3,0,0,0,0
 kiri,0,1,9,4,0,0
-kanan,0,0,2,3,0,1
-tidak_yakin,0,0,0,0,0,3
-null,0,1,0,0,0,0
+kanan,0,0,4,2,0,0
+tidak_yakin,0,3,0,0,0,0
+null,0,0,0,0,0,0

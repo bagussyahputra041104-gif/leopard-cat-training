@@ -20,14 +20,14 @@ TRAIN_CSV = os.path.join(
     BASE_DIR,
     "02_DATASET",
     "orientation_dataset",
-    "orientation_train.csv",
+    "orientation_train_v2.csv",
 )
 
 VAL_CSV = os.path.join(
     BASE_DIR,
     "02_DATASET",
     "orientation_dataset",
-    "orientation_val.csv",
+    "orientation_val_v2.csv",
 )
 
 MODEL_DIR = os.path.join(

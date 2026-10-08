@@ -12,18 +12,18 @@ BASE_DIR = r"C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang"
 
 MASTER_CSV = os.path.join(
     BASE_DIR,
-    "leopard_cat_master.csv"
+    "02_DATASET", "dataset", "leopard_cat_master_fixed.csv"
 )
 
 EMBEDDING_CSV = os.path.join(
     BASE_DIR,
-    "05_REID" / "crop",
+    os.path.join("05_REID", "crop"),
     "event_crop_embeddings.csv"
 )
 
 OUTPUT_DIR = os.path.join(
     BASE_DIR,
-    "05_REID" / "crop",
+    os.path.join("05_REID", "crop"),
     "cross_time"
 )
 
@@ -377,3 +377,4 @@ print("Top candidate:")
 print(
     TOP_PAIRS_CSV
 )
+

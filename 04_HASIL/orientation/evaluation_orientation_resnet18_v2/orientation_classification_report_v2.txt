@@ -7,34 +7,34 @@ C:\Users\bagus\OneDrive\Bagus\OneDrive\Dokumen\Magang\03_MODEL\models\resnet18_o
 AUGMENTATION
 no_horizontal_flip
 
-Total test foto : 30
+Total test foto : 29
 Total test event: 10
-Accuracy        : 0.5333
-Correct         : 16
-Wrong           : 14
+Accuracy        : 0.5862
+Correct         : 17
+Wrong           : 12
 
 CLASSIFICATION REPORT
 ----------------------------------------------------------------------
               precision    recall  f1-score   support
 
        depan       1.00      1.00      1.00         3
-    belakang       0.33      0.33      0.33         3
-        kiri       0.82      0.64      0.72        14
-       kanan       0.43      0.50      0.46         6
+    belakang       0.43      1.00      0.60         3
+        kiri       0.69      0.64      0.67        14
+       kanan       0.33      0.33      0.33         6
  tidak_yakin       0.00      0.00      0.00         3
-        null       0.00      0.00      0.00         1
+        null       0.00      0.00      0.00         0
 
-    accuracy                           0.53        30
-   macro avg       0.43      0.41      0.42        30
-weighted avg       0.60      0.53      0.56        30
+    accuracy                           0.59        29
+   macro avg       0.41      0.50      0.43        29
+weighted avg       0.55      0.59      0.56        29
 
 
 CONFUSION MATRIX
 ----------------------------------------------------------------------
              depan  belakang  kiri  kanan  tidak_yakin  null
 depan            3         0     0      0            0     0
-belakang         0         1     0      0            2     0
+belakang         0         3     0      0            0     0
 kiri             0         1     9      4            0     0
-kanan            0         0     2      3            0     1
-tidak_yakin      0         0     0      0            0     3
-null             0         1     0      0            0     0
+kanan            0         0     4      2            0     0
+tidak_yakin      0         3     0      0            0     0
+null             0         0     0      0            0     0
